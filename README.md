@@ -33,7 +33,7 @@ B.A French and Economics | University of Reading (_May 2021_)
 - Addressed tax compliance and remediation requests in accordance with IRS regulations, showcasing strong attention to detail and regulatory expertise. 
 - Prepared comprehensive reports and documentation to support tax filings and internal audits, ensuring accuracy and regulatory compliance. 
 
-** Advisory Fees Associate (_December 2021 - September 2022) **
+** Advisory Fees Associate (_December 2023 - September 2022) **
 - Processed billings, checks, and reimbursement claims, ensuring accuracy and compliance with financial standards. 
 - Provided exceptional customer service, addressing inquiries related to accounts, deposits, and statement discrepancies.
 
