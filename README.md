@@ -7,19 +7,19 @@ B.A French and Economics | University of Reading (_May 2021_)
 
 ### Projects
 ### Customer Segmentation & Sales Data Analysis (Excel)
-[View Project](https://github.com/HakeemGbehere/Interactive-Dashboard-Excel/blob/main/Excel%20Project%20Dataset.xlsx)
+[View Project] (https://github.com/HakeemGbehere/Interactive-Dashboard-Excel/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ### World Job Market Layoffs Data Cleaning (MySQL) 
-[View Project](https://www.mdpi.com/1424-8220/22/8/3048)
+[View Project] (https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### World Job Market Layoffs EDA (MySQL)
-[View Project](https://github.com/HakeemGbehere/EDA-MySQL/blob/main/Explatory%20Data%20Analysis%20World%20Layoffs.sql)
+[View Project] (https://github.com/HakeemGbehere/EDA-MySQL/blob/main/Explatory%20Data%20Analysis%20World%20Layoffs.sql)
 
 ### Seattle Airbnb Listing Analysis & Data Visualization (Tableau)
-[View Project](https://public.tableau.com/app/profile/hakeem.gbehere/viz/SeattleAirbnbListings2016Project/Dashboard1)
+[View Project] (https://public.tableau.com/app/profile/hakeem.gbehere/viz/SeattleAirbnbListings2016Project/Dashboard1)
 
 ### Data Visualization (POWER BI) 
-[View Project](https://www.mdpi.com/1424-8220/22/8/3048)
+[View Project] (https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### Work Experience 
 **Workplace Planning Associate @ Fidelity Investments (_November 2023 - Present_)**
