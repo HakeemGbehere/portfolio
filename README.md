@@ -39,5 +39,5 @@ B.A French and Economics | University of Reading (_May 2021_)
 
 
 ### Licenses and Certifications
-- FINRA Series 7 - General Securities Representative Exam
-- NASAA Series 66 - Uniform Combined State Law Exam
+- FINRA Series 7 - General Securities Representative Exam (_January 2024_)
+- NASAA Series 66 - Uniform Combined State Law Exam (_March 2024_)
