@@ -1,5 +1,5 @@
 title: Hakeem Gbehere
 logo: /assets/Headshot.PNG
 #description: text below image
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
