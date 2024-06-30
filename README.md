@@ -9,10 +9,10 @@ B.A French and Economics | University of Reading (_May 2021_)
 ### Customer Segmentation & Sales Data Analysis (Excel)
 [View Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
-### WORLD JOB MARKET LAYOFFS Data Cleaning (MySQL) 
+### World Job Market Layoffs Data Cleaning (MySQL) 
 [View Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
-### WORLD JOB MARKET LAYOFFS EDA (MySQL)
+### World Job Market Layoffs EDA (MySQL)
 [View Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### Seattle Airbnb Listing Analysis & Data Visualization (Tableau)
