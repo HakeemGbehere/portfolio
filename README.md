@@ -10,7 +10,7 @@ B.A French and Economics | University of Reading (_May 2021_)
 [View Project](https://github.com/HakeemGbehere/Interactive-Dashboard-Excel/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ### World Job Market Layoffs Data Cleaning (MySQL) 
-[View Project] (https://github.com/HakeemGbehere/Data-Cleaning-MySQL/blob/main/DATA%20CLEANING%20World%20Layoffs.sql)
+[View Project](https://github.com/HakeemGbehere/Data-Cleaning-MySQL/blob/main/DATA%20CLEANING%20World%20Layoffs.sql)
 
 ### World Job Market Layoffs EDA (MySQL)
 [View Project](https://github.com/HakeemGbehere/EDA-MySQL/blob/main/Explatory%20Data%20Analysis%20World%20Layoffs.sql)
