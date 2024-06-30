@@ -16,9 +16,9 @@ B.A French and Economics | University of Reading (_May 2021_)
 [View Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### Seattle Airbnb Listing Analysis & Data Visualization (Tableau)
+[View Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
-### Data Visualization (POWER BI)
-### WORLD JOB MARKET LAYOFFS EDA 
+### Data Visualization (POWER BI) 
 [View Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### Work Experience 
